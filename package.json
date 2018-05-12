@@ -2,5 +2,10 @@
   "name": "qox-rax-component-template",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "rax": "0.x.x",
+    "rax-text": "0.x.x",
+    "rax-view": "0.x.x"
+  }
 }

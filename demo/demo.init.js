@@ -1,4 +1,4 @@
 import App from '../index';
-import rennder from 'rax';
+import render from 'rax';
 
 render(<App/>);

@@ -1,3 +1,5 @@
 {
-  "type": "rax"
+  "type": "rax",
+  "builder": "rax-component-builder",
+  "yarn": true  
 }
